@@ -4,3 +4,16 @@
 .header h1{
     text-align:center;
 }
+#about-me{
+    font-size: large;
+    margin: 1px;
+}
+#my-work{
+    font-size:large;
+    margin: 1px;
+}
+#contact-me{
+    font-size: large;
+    margin:1px;
+}
+
