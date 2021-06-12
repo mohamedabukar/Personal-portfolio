@@ -36,12 +36,12 @@
     height:200px;
 }
 
-@media only screen and (max-width: 600px){
+@media screen and (max-width: 600px){
     #first{
         width: 450px;
 }
 }
-@media only screen and (max-width: 300px){
+@media screen and (max-width: 300px){
     #first{
         width: 200px;
     }
